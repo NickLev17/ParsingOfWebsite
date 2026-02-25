@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/default.png</file>
+        <file>images/left.png</file>
+        <file>images/right.png</file>
+        <file>images/pokeball.png</file>
+        <file>images/pokemon.png</file>
+    </qresource>
+</RCC>
